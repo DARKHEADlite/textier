@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Textier/static/css/main.073c9b0a.css",
+    "main.js": "/Textier/static/js/main.d55c7105.js",
+    "index.html": "/Textier/index.html",
+    "main.073c9b0a.css.map": "/Textier/static/css/main.073c9b0a.css.map",
+    "main.d55c7105.js.map": "/Textier/static/js/main.d55c7105.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d55c7105.js"
+  ]
+}
